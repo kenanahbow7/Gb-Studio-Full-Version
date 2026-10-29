@@ -240,4 +240,4 @@ This repository serves as the official landing page for GB Studio. The software 
 **Get the most recent version of GB Studio today!**
 
 ---
-**Last updated:** 2026-10-28 21:24:47 UTC
+**Last updated:** 2026-10-29 01:21:54 UTC
